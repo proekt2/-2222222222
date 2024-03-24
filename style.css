@@ -41,8 +41,8 @@ background-color: black;
     overflow: hidden;  
 }
 .main{
- width:1080px;
- height: 2000px;
+ width:100%;
+ height: 1920px;
 text-align: center;
   background-image: url(https://i.pinimg.com/564x/dd/28/ad/dd28add005f2e1bbe47754a4a8769e0b.jpg);
     background-repeat: no-repeat;
@@ -59,14 +59,14 @@ text-align: center;
 border-radius: 15px;}
 p{
   color: Bisque;
-  font-size: 45px;
-    margin-right: 200px;
-  margin-left: 200px;
+  font-size: 20px;
+    margin-right: 50px;
+  margin-left: 50px;
 }
 h1{
   margin-bottom: 50px;
   
-  font-size: 60px;
+  font-size: 30px;
   color: Bisque;
 }
 button{
@@ -78,5 +78,4 @@ button{
   background-color: black;
  
   border: 1px solid Bisque;
-  border-radius: 40px;
-}
+  border-radius: 40px;}
