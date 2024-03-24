@@ -32,9 +32,7 @@ h6{
 }
 body{
 background-color: black;
-  background-image: url(https://i.pinimg.com/564x/dd/28/ad/dd28add005f2e1bbe47754a4a8769e0b.jpg);
-    background-repeat: no-repeat;
-  background-size: cover;
+
 }
 
 .wrapper{
@@ -43,13 +41,15 @@ background-color: black;
     overflow: hidden;  
 }
 .main{
-
+  background-image: url(https://i.pinimg.com/564x/dd/28/ad/dd28add005f2e1bbe47754a4a8769e0b.jpg);
+    background-repeat: no-repeat;
+  background-size: cover;
 text-align: center;
 
 }
 .q11 { 
   margin-top: 30px;
-  width: 400px;
+  width: 300px;
  height: 40px;
 color: Bisque;
 background-color: black;
@@ -63,7 +63,7 @@ p{
   margin-left: 50px;
 }
 h1{
-  margin-bottom: 50px;
+  margin-bottom: 30px;
   
   font-size: 30px;
   color: Bisque;
@@ -71,7 +71,7 @@ h1{
 button{
   margin-top: 15px;
   margin-bottom: 40px;
-  width: 400px;
+  width: 300px;
  height: 40px;
   color:Bisque;
   background-color: black;
