@@ -45,7 +45,7 @@ background-color: black;
  height: 1500px;
 text-align: center;
   background-image: url(https://i.pinimg.com/originals/fc/53/21/fc5321cc8f3451a0133274e869b8a87f.jpg);
-
+background-size: cover;
 }
 .q11 { 
   margin-top: 10px;
